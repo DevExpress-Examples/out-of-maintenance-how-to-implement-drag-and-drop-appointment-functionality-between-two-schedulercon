@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/S173638/Form1.cs) (VB: [Form1.vb](./VB/S173638/Form1.vb))
+* [Program.cs](./CS/S173638/Program.cs) (VB: [Program.vb](./VB/S173638/Program.vb))
+<!-- default file list end -->
 # How to implement drag-and-drop appointment functionality between two SchedulerControls 
 
 
